@@ -3,7 +3,11 @@
 ## Introduction  
 This project provides an in-depth analysis of credit card usage and customer behavior to derive actionable insights that drive revenue growth and customer engagement. Using detailed transaction data, customer demographics, and financial metrics, we examine key performance indicators (KPIs), revenue patterns, and the influence of various attributes on business outcomes. The analysis equips businesses with the insights needed to optimize marketing strategies, customize product offerings, and enhance customer experiences.  
 
-Dataset link [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv) [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv) [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv) [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
+Dataset link 
+- [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv)
+- [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv)
+- [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv)
+- [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
 
 Power BI Dashboard [CC-Det](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cc-det.PNG) [Cust](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cust.PNG)
 
@@ -15,7 +19,11 @@ The analysis utilizes four CSV files:
 3. **cust_add.csv**: Provides supplementary customer attributes, such as occupation and spending categories.  
 4. **customer.csv**: Includes customer demographic data, such as education level, income, age group, and marital status.  
 
-Dataset link [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv) [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv) [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv) [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
+Dataset link 
+- [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv)
+- [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv)
+- [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv)
+- [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
 
 Power BI Dashboard [CC-Det](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cc-det.PNG) [Cust](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cust.PNG)
 
@@ -74,6 +82,10 @@ Based on the analysis, the following recommendations are proposed:
 
 By implementing these recommendations, businesses can harness data-driven insights to enhance customer satisfaction, maximize profitability, and secure a competitive edge in the market. 
 
-Dataset link [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv) [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv) [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv) [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
+Dataset link 
+- [cc_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cc_add.csv)
+- [credit_card](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card.csv)
+- [cust_add](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/cust_add.csv)
+- [customer](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/customer.csv)
 
 Power BI Dashboard [CC-Det](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cc-det.PNG) [Cust](https://github.com/NishaChandila/CreditCard-Spending-Analysis/blob/main/credit_card_report-cust.PNG)
